@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/aichamorro/URLRouter/"
   s.license          = 'MIT'
   s.author           = { "Alberto Chamorro" => "aichamorro.dev@gmail.com" }
-  s.source           = { :git => "https://github.com/aichamorro/URLRouter.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/aichamorro/URLRouter.git", :commit => "a3bd13923f4007917fe569607349e5423a0423bb" }
   # s.social_media_url = 'https://twitter.com/aichamorro'
 
   s.ios.deployment_target = '9.0'
